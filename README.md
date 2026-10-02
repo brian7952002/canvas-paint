@@ -4,11 +4,16 @@ A small freehand painting tool built on the HTML `<canvas>` element. Pick a
 color, size the brush, draw. No build step, no dependencies, no network calls —
 three files and a browser.
 
+**[Try it →](https://brian7952002.github.io/canvas-paint/)**
+
 ![The app with a few strokes on the canvas](screenshot.jpg)
 
 ## Run it
 
-Open `index.html` in a browser. That's the whole setup.
+It's live at
+[brian7952002.github.io/canvas-paint](https://brian7952002.github.io/canvas-paint/).
+
+To run it locally, open `index.html` in a browser. That's the whole setup.
 
 If you'd rather serve it over HTTP (handy for testing on a phone on the same
 network):
